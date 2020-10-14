@@ -1,3 +1,4 @@
 .idea/
 .mnv/
 target/
+log/*
